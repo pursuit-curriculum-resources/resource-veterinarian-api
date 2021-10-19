@@ -13,7 +13,7 @@ app.use(cors());
 // Index route message.
 app.get("/", (_req, _res, next) => {
   next({
-    message: "No resource found. Please access emojis at /api/emojis.",
+    message: "No resource found.",
     status: 404,
   });
 });
