@@ -5,140 +5,140 @@
       "name": "Lady",
       "kind": "Dog",
       "breed": "Doberman Pinscher",
-      "staffId": "z7GIN_i"
+      "employeeId": "z7GIN_i"
     },
     {
       "id": "dwW-UfK",
       "name": "Pancho",
       "kind": "Dog",
       "breed": "Chihuahua, Short Coat",
-      "staffId": "z7GIN_i"
+      "employeeId": "z7GIN_i"
     },
     {
       "id": "1p9oPcM",
       "name": "Blue",
       "kind": "Cat",
       "breed": "Domestic Shorthair",
-      "staffId": "z7GIN_i"
+      "employeeId": "z7GIN_i"
     },
     {
       "id": "s7xFnQQ",
       "name": "Grey Fox",
       "kind": "Cat",
       "breed": "Siamese",
-      "staffId": "z7GIN_i"
+      "employeeId": "z7GIN_i"
     },
     {
       "id": "Ccixu3v",
       "name": "Romeo",
       "kind": "Dog",
       "breed": "Retriever, Golden",
-      "staffId": "z7GIN_i"
+      "employeeId": "z7GIN_i"
     },
     {
       "id": "6hIG0NE",
       "name": "Happy",
       "kind": "Dog",
       "breed": "Welsh Corgi, Pembroke",
-      "staffId": "z7GIN_i"
+      "employeeId": "z7GIN_i"
     },
     {
       "id": "Lh7diV3",
       "name": "Buddy",
       "kind": "Dog",
       "breed": "Bichon Frise",
-      "staffId": "z7GIN_i"
+      "employeeId": "z7GIN_i"
     },
     {
       "id": "O5-KMSE",
       "name": "Foster",
       "kind": "Dog",
       "breed": "Spaniel, English Springer",
-      "staffId": "z7GIN_i"
+      "employeeId": "z7GIN_i"
     },
     {
       "id": "UUy2epG",
       "name": "Poppy",
       "kind": "Cat",
       "breed": "Domestic Longhair",
-      "staffId": "z7GIN_i"
+      "employeeId": "z7GIN_i"
     },
     {
       "id": "LuIjiF7",
       "name": "Bandit",
       "kind": "Dog",
       "breed": "Havanese",
-      "staffId": "z7GIN_i"
+      "employeeId": "z7GIN_i"
     },
     {
       "id": "Ricah2a",
       "name": "Quincy",
       "kind": "Cat",
       "breed": "Ragdoll",
-      "staffId": "z7GIN_i"
+      "employeeId": "z7GIN_i"
     },
     {
       "id": "iqL33Eh",
       "name": "Mattie",
       "kind": "Dog",
       "breed": "Retriever, Labrador",
-      "staffId": "z7GIN_i"
+      "employeeId": "z7GIN_i"
     },
     {
       "id": "fiQ_EZE",
       "name": "Alanis",
       "kind": "Dog",
       "breed": "Retriever, Labrador",
-      "staffId": "vlJtFOU"
+      "employeeId": "vlJtFOU"
     },
     {
       "id": "Jp0ZQqU",
       "name": "Johnny",
       "kind": "Dog",
       "breed": "Pomeranian",
-      "staffId": "vlJtFOU"
+      "employeeId": "vlJtFOU"
     },
     {
       "id": "8sdMh5q",
       "name": "Hero",
       "kind": "Cat",
       "breed": "Abyssinian",
-      "staffId": "vlJtFOU"
+      "employeeId": "vlJtFOU"
     },
     {
       "id": "jI3RVEU",
       "name": "Moose",
       "kind": "Dog",
       "breed": "Mastiff",
-      "staffId": "vlJtFOU"
+      "employeeId": "vlJtFOU"
     },
     {
       "id": "3jVKsTR",
       "name": "Cindy",
       "kind": "Dog",
       "breed": "Australian Cattle Dog",
-      "staffId": "vlJtFOU"
+      "employeeId": "vlJtFOU"
     },
     {
       "id": "gIR858c",
       "name": "Tango",
       "kind": "Dog",
       "breed": "German Shepherd",
-      "staffId": "vlJtFOU"
+      "employeeId": "vlJtFOU"
     },
     {
       "id": "HeoSm9V",
       "name": "Annie",
       "kind": "Dog",
       "breed": "Beagle",
-      "staffId": "vlJtFOU"
+      "employeeId": "vlJtFOU"
     },
     {
       "id": "BTNrkbC",
       "name": "Kaiser",
       "kind": "Cat",
       "breed": "Siamese",
-      "staffId": "vlJtFOU"
+      "employeeId": "vlJtFOU"
     }
   ],
   "owners": [
@@ -359,7 +359,7 @@
       "ownerId": "jWc74nH"
     }
   ],
-  "staff": [
+  "employees": [
     {
       "id": "z7GIN_i",
       "firstName": "Leah",
