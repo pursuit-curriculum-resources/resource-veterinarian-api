@@ -1,6 +1,6 @@
 # Veterinarian API
 
-This server is intended to be used with the Emagi Project.
+This server is intended to be used with the Veterinarian front-end projects.
 
 ## Implementation
 
